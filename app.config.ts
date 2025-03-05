@@ -47,12 +47,12 @@ export default defineAppConfig({
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
-        to: '',
+        to: 'https://github.com/QinMoXX/QMBlogWeb',
         target: '_blank',
       }, {
         title: 'Create Issues',
         icon: 'lucide:circle-dot',
-        to: '',
+        to: 'https://github.com/QinMoXX/QMBlogWeb/issues',
         target: '_blank',
       }],
     },

@@ -18,7 +18,7 @@ export default defineNuxtConfig({
   },
   mdc: {
     highlight: {
-      langs: ['csharp', 'javascript', 'typescript', 'vue', 'bash', 'python', 'cpp', 'shell', 'c']  
+      langs: ['csharp', 'javascript', 'typescript', 'vue', 'bash', 'python', 'cpp', 'shell', 'c', 'rust', 'toml']
     }
   }
 });
